@@ -1,7 +1,7 @@
 # Temporal Neighborhood Coding for Maneuvering (TNC4maneuvering)
 
 <div style="text-align:center;">
-    <img src="tnc4man_diagram.png" alt="tnc4maneuvering" width="400" height="350">
+    <img src="tnc_diagram.png" alt="tnc4maneuvering" width="400" height="350">
 </div>
 
 This repository implements the Temporal Neighborhood Coding for Maneuvering (TNC4maneuvering) framework, which aims to understand maneuverability in smart transportation using acceleration datasets.
